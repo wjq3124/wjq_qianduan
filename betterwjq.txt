@@ -6,4 +6,8 @@ betterwjq.txt v1
 
 44444444444444
 
+<<<<<<< HEAD
 5555555555555 -local
+=======
+5555555555555 -remote
+>>>>>>> 95ca3b2f124f79ce0ef0adf97858e9bf445b5f8f
